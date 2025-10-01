@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Bett
-
-# 💫 About Me:
 I am a motivated and curious Computer Science student with a solid foundation in programming, web and app development, and database operations. Currently advancing my skills through the Power Learn Project scholarship, I am eager to contribute and grow in a collaborative tech environment.I love learning new technologies and tackling challenging problems.<br><br>
 
 ## 🚀 Technical Skills<br>
