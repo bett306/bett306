@@ -6,8 +6,10 @@ I am a motivated and curious Computer Science student with a solid foundation in
 ## 🚀 Technical Skills<br>
 #### Programming Languages:
 C, Python, HTML, CSS, SQL, Dart (Flutter)<br>
-#### Database: MySQL (basic CRUD operations and queries)<br>
-Web Development: HTML & CSS (Frontend fundamentals)<br>
+#### Database:
+MySQL (basic CRUD operations and queries)<br>
+#### Web Development:
+HTML & CSS (Frontend fundamentals)<br>
 
 ## 🛠️ Projects<br>
 ### 1. Youth Empowerment App<br>
@@ -19,9 +21,14 @@ Built a basic calculator in Python for standard arithmetic operations.<br>
 ### 4. SQL Practice<br>
 Worked with MySQL databases to perform CRUD operations and beginner-level queries.<br>
 
-🌱 Currently Learning<br>App development with Flutter & Dart<br>Advanced SQL and backend concepts<br>Collaborative coding and Git best practices<br>
+## 🌱 Currently Learning<br>
+App development with Flutter & Dart<br>
+Advanced SQL and backend concepts<br>
+Collaborative coding and Git best practices<br>
+Increasing my skill in c++ and python
 
-🤝 Let’s Connect!<br>I’m always open to learning, collaboration, and new opportunities. Feel free to reach out!
+## 🤝 Let’s Connect!<br>
+I’m always open to learning, collaboration, and new opportunities. Feel free to reach out!
 
 
 # 💻 Tech Stack:
